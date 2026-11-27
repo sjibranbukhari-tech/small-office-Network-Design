@@ -1,37 +1,42 @@
-Small Office Network Design and Implementation
+Small Office Network Design
 
-Project Overview
+This is my first networking project, which I created using Cisco Packet Tracer.
 
-Designed and implemented a small office network using Cisco Packet Tracer. The project demonstrates basic networking concepts, device configuration, IP addressing, and network connectivity.
+In this project, I designed a small office network using routers, switches and PCs. I configured IP addresses, subnetting and DHCP, and tested the network connectivity using ping commands.
 
-Technologies Used
+ Tools and Technologies
 
 - Cisco Packet Tracer
-- Routers
-- Switches
-- End Devices (PCs)
-- IPv4 Addressing
+- Router and Switch
+- PCs
+- IPv4
 - Subnetting
 - DHCP
 
-Features Implemented
+ What I Did
 
-- Designed a small office network topology.
-- Configured IP addressing and subnetting.
-- Implemented DHCP for automatic IP address allocation.
-- Configured network devices.
-- Tested connectivity between network devices using ping commands.
+- Created a small office network.
+- Connected PCs, switches and routers.
+- Configured IP addresses.
+- Set up DHCP for automatic IP assignment.
+- Tested connectivity using ping.
 
-Learning Outcomes
+ Screenshots
 
-- Understanding basic network design.
-- Practical experience with Cisco Packet Tracer.
-- Understanding IP addressing and subnetting.
-- Configuring DHCP.
-- Troubleshooting network connectivity.
+ Network Topology
+![Network Topology](screenshots/network-topology.png)
 
-  
-  Author
-  SYED JIBRAN BUKHARI
+ DHCP Configuration
+![DHCP Configuration](screenshots/dhcp-configuration.png)
 
+ Ping Test
+![Connectivity Test](screenshots/connectivity-test.png)
+
+ What I Learned
+
+While working on this project, I learned how to create a basic network, configure IP addresses, use DHCP and test connectivity between devices.
+
+ Author
+
+Syed Jibran Bukhari
 
