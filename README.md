@@ -22,15 +22,24 @@ In this project, I designed a small office network using routers, switches and P
 - Tested connectivity using ping.
  Screenshots
 
+
+ 
  Network Topology
 
 
  
+
+
 ![Network Topology](screenshots/network-topology.png)
 
 
  
+
+ 
  DHCP Configuration
+
+
+
 
 
 
@@ -38,13 +47,18 @@ In this project, I designed a small office network using routers, switches and P
 
 
  
+
  Ping Test
+
+
 
 
 
 ![Connectivity Test](screenshots/connectivity-test.png)
 
 
+
+ 
  What I Learned
 
 While working on this project, I learned how to create a basic network, configure IP addresses, use DHCP and test connectivity between devices.
