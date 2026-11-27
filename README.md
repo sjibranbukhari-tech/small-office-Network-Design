@@ -20,17 +20,30 @@ In this project, I designed a small office network using routers, switches and P
 - Configured IP addresses.
 - Set up DHCP for automatic IP assignment.
 - Tested connectivity using ping.
-
  Screenshots
 
  Network Topology
+
+
+ 
 ![Network Topology](screenshots/network-topology.png)
 
+
+ 
  DHCP Configuration
+
+
+
 ![DHCP Configuration](screenshots/dhcp-configuration.png)
 
+
+ 
  Ping Test
+
+
+
 ![Connectivity Test](screenshots/connectivity-test.png)
+
 
  What I Learned
 
