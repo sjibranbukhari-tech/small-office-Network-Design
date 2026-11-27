@@ -20,7 +20,12 @@ In this project, I designed a small office network using routers, switches and P
 - Configured IP addresses.
 - Set up DHCP for automatic IP assignment.
 - Tested connectivity using ping.
- Screenshots
+
+
+
+
+Screenshots
+
 
 
  
